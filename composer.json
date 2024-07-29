@@ -17,8 +17,8 @@
         }
     ],
     "require": {
-        "php": "^7.3|^8.0|^8.2",
-        "livewire/livewire": "^2.12",
+        "php": "^7.3|^8.0|^8.2|^8.3",
+        "livewire/livewire": "^3.0",    
         "illuminate/view": "^7.0|^8.0|^9.0|^10.0"
     },
     "require-dev": {
@@ -40,5 +40,6 @@
         }
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "version": "2.0.0" 
 }
